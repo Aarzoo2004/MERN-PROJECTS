@@ -143,11 +143,4 @@ npm run dev
 * TailwindCSS is used for styling; ensure you follow the Vite setup for Tailwind.
 * React Router DOM enables client-side routing for a single-page app experience.
 
----
-
-## Author
-
-**Aarzoo Asar**
-
----
 
