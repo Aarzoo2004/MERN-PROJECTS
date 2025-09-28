@@ -117,7 +117,7 @@ Restaurant-MERN/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Restaurant-MERN.git
+git clone https://github.com/Aarzoo2004/Restaurant-MERN.git
 cd Restaurant-MERN
 ```
 
